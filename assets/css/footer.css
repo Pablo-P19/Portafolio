@@ -1,0 +1,25 @@
+.footer  {
+    display: flex;
+    justify-content: center;
+    background: #0c1c3b;
+}
+
+.footer__rodape {
+    color: white;
+    font-size: small;
+  text-align: center;
+}
+
+
+
+/* @media (min-width: 768px) {
+
+} */
+
+
+@media only screen and (max-width: 768px) {
+  .footer {
+    width: 100%;
+  }
+  
+}
